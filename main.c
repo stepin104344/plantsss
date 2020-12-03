@@ -19,7 +19,7 @@ int main()
 		printf("SYMPTOMS:: \n ");
 		printf("Diseased leaves appear whitish gray, dusty, or have a powdery white appearance. Petioles, cluster stems, and green shoots often look distorted or stunted.  \n ");
 		printf("***TREATMENT SUGGESTED*** \n ");
-		printf("Apply a 1-2% oil treatment to the vines within 2 days of the water application. In general, petroleum-based oils work better than plant-based oils. Thorough spray coverage is essential for good results. Forget using bicarbonate products; they do not work when the powdery mildew pressure is very high. \n ");
+		printf("Apply a 1-2% oil treatment to the vines within 2 days of the water application. In general, petroleum-based oils work better than plant-based oils.  \n ");
 	}
 	if(plants==3){
 		printf("SYMPTOMS:: \n ");
